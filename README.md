@@ -89,3 +89,7 @@ streamlit run app.py
 
 **Uribindi Dharshini**  
 🔗 [LinkedIn](https://www.linkedin.com/in/dharshini-u-44a5412a4)
+
+
+🚀 [Live Demo](https://newsappclassifier-rsdygy8tqgfbuhmmdabzsf.streamlit.app)
+
